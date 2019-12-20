@@ -1,0 +1,36 @@
+{
+  "name": "case-insensitive-compare",
+  "version": "1.0.0",
+  "authors": [
+    "Nick Coad <dev@coader.io>"
+  ],
+  "description": "Case insensitive string comparison.",
+  "main": "src/index.js",
+  "keywords": [
+    "string",
+    "compare",
+    "case",
+    "case insensitive",
+    "ignore case",
+    "ignore"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nickcoad/case-insensitive-compare#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickcoad/case-insensitive-compare.git"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "coveralls": "nyc report --reporter=text-lcov | coveralls",
+    "test": "nyc node_modules/mocha/bin/_mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "nyc": "^14.0.0",
+    "mocha": "^6.0.0"
+  }
+}
