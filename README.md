@@ -1,5 +1,7 @@
 # case-insensitive-compare
 
+[![Travis Build Status](https://travis-ci.org/nickcoad/case-insensitive-compare.svg?branch=master)](https://travis-ci.org/nickcoad/case-insensitive-compare)
+
 Case insensitive string comparison.
 
 ## Install
