@@ -1,6 +1,6 @@
 # case-insensitive-compare
 
-[![Travis Build Status](https://travis-ci.org/nickcoad/case-insensitive-compare.svg?branch=master)](https://travis-ci.org/nickcoad/case-insensitive-compare)
+[![Travis Build Status](https://travis-ci.org/nickcoad/case-insensitive-compare.svg?branch=master)](https://travis-ci.org/nickcoad/case-insensitive-compare) [![Coverage Status](https://coveralls.io/repos/github/nickcoad/case-insensitive-compare/badge.svg?branch=master)](https://coveralls.io/github/nickcoad/case-insensitive-compare?branch=master)
 
 Case insensitive string comparison.
 
