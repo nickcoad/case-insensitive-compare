@@ -1,11 +1,12 @@
 {
   "name": "case-insensitive-compare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "Nick Coad <dev@coader.io>"
   ],
   "description": "Case insensitive string comparison.",
   "main": "src/index.js",
+  "types": "index.d.ts",
   "keywords": [
     "string",
     "compare",
